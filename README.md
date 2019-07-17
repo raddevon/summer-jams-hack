@@ -1,4 +1,4 @@
-# summer-jams-hack
+# Summer Jams Mini-Hack Resources
 Here are some libraries and resources to help with your Summer Jams hack. Good luck!
 
 ## APIs
